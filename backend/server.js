@@ -1,6 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const playerRoutes = require('./backend/routes/playerRoutes');
+const playerRoutes = require('./routes/playerRoutes');
 const dotenv = require('dotenv');
 
 //Load environment variables
